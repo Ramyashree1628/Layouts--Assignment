@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+}
+h1{
+  background-color: #D3D3D3;
+  border:5px solid #f00;
+  margin: auto;
+}  
+div.main{
+  background-color: #D3D3D3;
+  margin-left:300px;
+}
+figure{
+  float: left;
+  margin-left:10px;
+
+}
+div.clear{
+  clear:left;
+}
+hr.line1{
+  border: 1px solid #f00; 
+}
+button{
+  float:right;
+  margin-right:10px;
+}
+footer {
+  padding:10px 2px 60px;
+  background-color: aqua;
+}
+
+.pictures1{
+  float: left;
+  padding-right:20px;
+  padding-left:5px;
+}
+
+
+p{
+  text-align: justify;
+}
